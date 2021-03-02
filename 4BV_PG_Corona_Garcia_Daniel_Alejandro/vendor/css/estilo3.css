@@ -1,0 +1,134 @@
+	* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			header {
+				 background: rgba(0,0,0,0.9);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+   padding: 2;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 50px;
+				display:block;
+				
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-155px;
+				top:0px;
+			}
+
+			
+			
+			body {
+				position:relative;
+	background-image:url('../../img/Fo.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+			}
+			
+.S{
+		margin-top:50px;
+		float:left;
+		
+	}
+	.C{
+		margin-top:200px;
+	
+		
+		
+	}
+	.H{
+		margin-top:100px;
+		float:left;
+	
+		
+	}
+	.P{
+		margin-top:100px;
+		float:left;
+		
+		
+	}
+	.M{
+		margin-top:100px;
+		float:left;
+		
+		
+	}
+	.colz
+	{
+		height:50%;
+		width:50%;
+		margin-left:350px;
+	}
+	
+	.tab{
+		
+		border:9px outset;
+		border-color:gray;
+		background-color:white;
+		
+	}
+	.btnP
+	{
+		 margin-left:30;
+		border-radius: 12px;
+	font-size:18;
+	background-color:gray;
+	padding-left: 7px;
+	padding-right:7px;
+	}
+	.btnP:hover {
+  background:#EEEDED ;
+  cursor:hand;
+  
+  
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+	

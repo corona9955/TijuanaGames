@@ -1,0 +1,244 @@
+#Home
+{
+	text-align:center;
+	margin-top:-8;
+	 font-family: sans-serif;
+	 font-size:20;
+    color:gray;
+	
+}
+
+.B:hover   
+{
+	color:black;
+    cursor:hand;
+	border-radius: 12px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+ 
+p {
+  margin-bottom: 20px;
+}
+
+
+header {
+  background: rgba(0,0,0,0.9);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+   padding: 2;
+ 
+   
+}
+
+
+nav {
+  float: right; 
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+nav ul li a {
+ 
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+.B:hover {
+  background: white;
+}
+
+nav {
+  float: left;
+}
+ 
+nav ul {
+  
+  overflow: hidden; 
+border-radius: 12px;
+
+}
+ 
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  margin-left:20;
+  padding-left:2;
+  padding-top:8;
+  margin-right:17;
+}
+ 
+nav ul li a {
+
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+ 
+
+
+body {
+	background-image:url('../../img/P.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+}
+.U {
+	 padding-right: 0px;
+	font-size: 20px;
+	float: center-right;
+	color:white;
+	  margin-left:40;
+}
+.C {
+	
+	font-size: 20px;
+	float: center-right;
+	color:white;
+	
+  padding-right: 0px;
+    margin-left:40;
+}
+.C2
+{
+	
+	font-size: 15px;
+	float: center-right;
+	
+	
+  padding-right: 15px;
+  
+}
+.U2
+{
+	
+	 padding-right: 15px;
+	font-size: 15px;
+	float: center-right;
+  
+	
+}
+
+.B 
+{
+	  margin-left:30;
+		border-radius: 12px;
+	font-size:18;
+	background-color:gray;
+	padding-left: 7px;
+	padding-right:7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
